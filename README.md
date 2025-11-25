@@ -11,6 +11,9 @@
 Chào mừng các đồng đạo đến với dự án **Ultimate Astro Lottery Predictor**. Đây không phải là một tool random số thông thường. Đây là sự kết tinh giữa **Deep Learning (Transformer)** tối tân và **Chiêm tinh học (Astrology)** cổ đại.
 
 Khi GPU NVIDIA kết hợp với Sao Thủy nghịch hành, chúng ta có công cụ này.
+Biến động tài sản của mô hình tốt nhất với tỷ lê ăn 1:3
+<img width="1203" height="603" alt="image" src="https://github.com/user-attachments/assets/0a473176-6df0-4c04-ae7c-6a0a9793a198" />
+
 
 ### 🎯 Mục tiêu dự án
 - Giúp anh em xa bờ tìm đường về đất liền.
