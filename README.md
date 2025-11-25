@@ -32,8 +32,8 @@ Dành cho các dân chơi biết code (hoặc biết copy-paste). Làm theo 3 b�
 Mở Terminal (hoặc CMD) lên và gõ lệnh triệu hồi:
 
 ```bash
-git clone https://github.com/daica-deptrai/than-co-dieu-toan.git
-cd than-co-dieu-toan
+git clonet
+cd 
 ```
 
 ### Bước 2: Cài đặt các thư viện (Phép bổ trợ)
