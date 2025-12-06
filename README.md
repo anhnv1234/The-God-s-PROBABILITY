@@ -49,7 +49,7 @@ pip install torch pandas numpy ephem schedule requests beautifulsoup4 pyarrow tq
 
 ### Bước 3: Chuẩn bị dữ liệu
 - Đảm bảo file `du_lieu_chiem_tinh_chuan_gio.parquet` đã nằm trong folder dự án.
-- Nếu chưa có thì cứ kệ nó, chạy bot vài ngày nó tự đi cào về (hơi lâu tí nhưng free).
+- Nếu chưa có thì cứ kệ nó, hoặc chạy file thu thập đề cào dữ liệu về .
 
 ## 🎮 Hướng dẫn sử dụng (Usage)
 
